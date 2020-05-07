@@ -8,7 +8,7 @@ import {
 
 /* JS code
 
-Class Employee {
+class Employee {
   firstName: string;
   lastName: string;
 
